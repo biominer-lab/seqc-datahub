@@ -1,7 +1,7 @@
 # Naming Conventions
 ## Goals
 
-学习TCGA项目的命名规范，统一SampleAB、Quartet项目质控相关数据集文库、文件等的名称（仅适用于测序数据）
+学习TCGA项目的命名规范经验，统一SampleAB、Quartet项目质控相关数据集文库、文件等的名称（仅适用于测序数据）
 
 ## Basic Requirements
 
