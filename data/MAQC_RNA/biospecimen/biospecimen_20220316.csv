@@ -1,0 +1,5 @@
+biospecimen_id,donor_id,biospecimen_type,collection_date,biospecimen_name
+UHRR,Donor_MAQC_A,"10 human cell lines (B lymphocyte, brain, breast, cervix, liposarcoma, liver, macrophage, skin, testis, and T lymphocyte)",NA,Universal Human Reference RNA
+HBRR,Donor_MAQC_B,Several brain regions from 23 adult donors,NA,Human Brain Reference RNA
+0.75UHRR_and_0.25HBRR,,"10 human cell lines (B lymphocyte, brain, breast, cervix, liposarcoma, liver, macrophage, skin, testis, and T lymphocyte) and Several brain regions from 23 adult donors",NA,Universal Human Reference RNA
+0.25UHRR_and_0.75HBRR,,"10 human cell lines (B lymphocyte, brain, breast, cervix, liposarcoma, liver, macrophage, skin, testis, and T lymphocyte) and Several brain regions from 23 adult donors",NA,Human Brain Reference RNA

@@ -1,0 +1,147 @@
+library_id,rm_id,input_ng,enrich_kit,preparation_kit,fragment_method,fragment_selection,fragment_range,pcr_cycle,preparation_date,spike_in,qc_concentration,qc_size,preparation_method,experiment,batch,stranded,preparation_site
+library_Quartet_RNA_BGI_BGI2000_PolyA_BGI_SampleA_1_20200618,Sample A,500,,N406+NRM604,,,,14,2020/6/12,,,,PolyA,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_PolyA_BGI_SampleA_2_20200618,Sample A,500,,N406+NRM604,,,,14,2020/6/12,,,,PolyA,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_PolyA_BGI_SampleA_3_20200618,Sample A,500,,N406+NRM604,,,,14,2020/6/12,,,,PolyA,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_PolyA_BGI_SampleB_1_20200618,Sample B,500,,N406+NRM604,,,,14,2020/6/12,,,,PolyA,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_PolyA_BGI_SampleB_2_20200618,Sample B,500,,N406+NRM604,,,,14,2020/6/12,,,,PolyA,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_PolyA_BGI_SampleB_3_20200618,Sample B,500,,N406+NRM604,,,,14,2020/6/12,,,,PolyA,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_PolyA_VAZ_SampleA_1_20200612,Sample A,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,ERCC Mix 1,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_PolyA_VAZ_SampleA_2_20200612,Sample A,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,ERCC Mix 1,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_PolyA_VAZ_SampleA_3_20200612,Sample A,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,ERCC Mix 1,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_PolyA_VAZ_SampleB_1_20200612,Sample B,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,ERCC Mix 2,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_PolyA_VAZ_SampleB_2_20200612,Sample B,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,ERCC Mix 2,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_PolyA_VAZ_SampleB_3_20200612,Sample B,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,ERCC Mix 2,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_BGI_SampleA_1_20200618,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_RiboZero_BGI_SampleA_2_20200618,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_RiboZero_BGI_SampleA_3_20200618,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_RiboZero_BGI_SampleB_1_20200618,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_RiboZero_BGI_SampleB_2_20200618,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_RiboZero_BGI_SampleB_3_20200618,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,BGI
+library_Quartet_RNA_BGI_BGI2000_RiboZero_VAZ_SampleA_1_20200612,Sample A,,,MGIEasy rRNA(32 RXN),,,,14,2020/6/18,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_VAZ_SampleA_2_20200612,Sample A,,,MGIEasy rRNA(32 RXN),,,,14,2020/6/18,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_VAZ_SampleA_3_20200612,Sample A,,,MGIEasy rRNA(32 RXN),,,,14,2020/6/18,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_VAZ_SampleB_1_20200612,Sample B,,,MGIEasy rRNA(32 RXN),,,,14,2020/6/18,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_VAZ_SampleB_2_20200612,Sample B,,,MGIEasy rRNA(32 RXN),,,,14,2020/6/18,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_VAZ_SampleB_3_20200612,Sample B,,,MGIEasy rRNA(32 RXN),,,,14,2020/6/18,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleA_1_20191125,Sample A,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleA_2_20191125,Sample A,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleA_3_20191125,Sample A,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleA_4_20191125,Sample A,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleA_5_20191125,Sample A,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleB_1_20191125,Sample B,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleB_2_20191125,Sample B,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleB_3_20191125,Sample B,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleB_4_20191125,Sample B,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_BGI_BGI2000_RiboZero_WEH_SampleB_5_20191125,Sample B,,,KAPA Stranded RNA-Seq Kit with RiboErase (HMR),,,,,2019/1/29,,,,RiboDepletion,Quartet_RNA,,,WEH
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ABC_SampleA_1_20200602,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/7/10,,,,PolyA,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ABC_SampleA_2_20200602,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/7/10,,,,PolyA,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ABC_SampleA_3_20200602,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/7/10,,,,PolyA,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ABC_SampleB_1_20200602,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/7/10,,,,PolyA,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ABC_SampleB_2_20200602,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/7/10,,,,PolyA,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ABC_SampleB_3_20200602,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/7/10,,,,PolyA,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ARD_SampleA_1_20180925,Sample A,,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/9/25,ERCC Mix 1,,,PolyA,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ARD_SampleA_2_20180925,Sample A,,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/9/25,ERCC Mix 1,,,PolyA,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ARD_SampleA_3_20180925,Sample A,,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/9/25,ERCC Mix 1,,,PolyA,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ARD_SampleB_1_20180925,Sample B,,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/9/25,ERCC Mix 2,,,PolyA,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ARD_SampleB_2_20180925,Sample B,,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/9/25,ERCC Mix 2,,,PolyA,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_PolyA_ARD_SampleB_3_20180925,Sample B,,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/9/25,ERCC Mix 2,,,PolyA,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleA_1_20190710,Sample A,,,,,,,,NA,,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleA_1_20190816,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2018/11/10,ERCC Mix 1,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleA_2_20190710,Sample A,,,,,,,,NA,,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleA_2_20190816,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2018/11/10,ERCC Mix 1,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleA_3_20190710,Sample A,,,,,,,,NA,,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleA_3_20190816,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2018/11/10,ERCC Mix 1,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleB_1_20190710,Sample B,,,,,,,,NA,,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleB_1_20190816,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2018/11/10,ERCC Mix 2,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleB_2_20190710,Sample B,,,,,,,,NA,,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleB_2_20190816,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2018/11/10,ERCC Mix 2,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleB_3_20190710,Sample B,,,,,,,,NA,,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_FDU_SampleB_3_20190816,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2018/11/10,ERCC Mix 2,,,PolyA,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_PolyA_VAZ_SampleA_1_20200612,Sample A,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_PolyA_VAZ_SampleA_2_20200612,Sample A,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_PolyA_VAZ_SampleA_3_20200612,Sample A,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_PolyA_VAZ_SampleB_1_20200612,Sample B,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_PolyA_VAZ_SampleB_2_20200612,Sample B,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_PolyA_VAZ_SampleB_3_20200612,Sample B,,,NEXTFLEX Rapid Directional RNA-Seq Kit 2.0,,,,,2020/2/5,,,,PolyA,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_PolyA_WUX_SampleA_1_20180928,Sample A,,Truseq mRNA kit,Truseq mRNA kit,,,,,2018/9/28,ERCC Mix 1,,,PolyA,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_PolyA_WUX_SampleA_2_20180928,Sample A,,Truseq mRNA kit,Truseq mRNA kit,,,,,2018/9/28,ERCC Mix 1,,,PolyA,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_PolyA_WUX_SampleA_3_20180928,Sample A,,Truseq mRNA kit,Truseq mRNA kit,,,,,2018/9/28,ERCC Mix 1,,,PolyA,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_PolyA_WUX_SampleB_1_20180928,Sample B,,Truseq mRNA kit,Truseq mRNA kit,,,,,2018/9/28,ERCC Mix 2,,,PolyA,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_PolyA_WUX_SampleB_2_20180928,Sample B,,Truseq mRNA kit,Truseq mRNA kit,,,,,2018/9/28,ERCC Mix 2,,,PolyA,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_PolyA_WUX_SampleB_3_20180928,Sample B,,Truseq mRNA kit,Truseq mRNA kit,,,,,2018/9/28,ERCC Mix 2,,,PolyA,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ABC_SampleA_1_20200602,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ABC_SampleA_2_20200602,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ABC_SampleA_3_20200602,Sample A,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ABC_SampleB_1_20200602,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ABC_SampleB_2_20200602,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ABC_SampleB_3_20200602,Sample B,,,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,ABC
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleA_1_20181110,Sample A,500,N401+NRM604,N401+NRM604,,,,14,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleA_1_20190129,Sample A,500,N401+NRM604,N401+NRM604,,,,,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleA_2_20181110,Sample A,500,N401+NRM604,N401+NRM604,,,,14,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleA_2_20190129,Sample A,500,N401+NRM604,N401+NRM604,,,,,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleA_3_20181110,Sample A,500,N401+NRM604,N401+NRM604,,,,14,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleA_3_20190129,Sample A,500,N401+NRM604,N401+NRM604,,,,,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleB_1_20181110,Sample B,500,N401+NRM604,N401+NRM604,,,,14,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleB_1_20190129,Sample B,500,N401+NRM604,N401+NRM604,,,,,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleB_2_20181110,Sample B,500,N401+NRM604,N401+NRM604,,,,14,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleB_2_20190129,Sample B,500,N401+NRM604,N401+NRM604,,,,,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleB_3_20181110,Sample B,500,N401+NRM604,N401+NRM604,,,,14,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_ARD_SampleB_3_20190129,Sample B,500,N401+NRM604,N401+NRM604,,,,,2020/6/12,,,,RiboDepletion,Quartet_RNA,,,ARD
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_1_20181020,Sample A,500,,ABclonal Stranded mRNA-seq Lib Prep Kit for Illumina(RK20301),94 C for 10 minutes,YES,,11,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_2_20181020,Sample A,500,,ABclonal Stranded mRNA-seq Lib Prep Kit for Illumina(RK20301),94 C for 10 minutes,YES,,11,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_3_20181020,Sample A,500,,ABclonal Stranded mRNA-seq Lib Prep Kit for Illumina(RK20301),94 C for 10 minutes,YES,,11,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_4_20190306,Sample A,,,VAHTS mRNA Capture Beads kit,,,,14,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_5_20190306,Sample A,,,VAHTS mRNA Capture Beads kit,,,,14,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_6_20190306,Sample A,,,VAHTS mRNA Capture Beads kit,,,,14,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_7_20190506,Sample A,,,TruSeq Stranded Total RNA Gold kit,,,,,2018/9/28,ERCC Mix 1,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_8_20190506,Sample A,,,TruSeq Stranded Total RNA Gold kit,,,,,2018/9/28,ERCC Mix 1,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleA_9_20190506,Sample A,,,TruSeq Stranded Total RNA Gold kit,,,,,2018/9/28,ERCC Mix 1,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_1_20181020,Sample B,500,,ABclonal Stranded mRNA-seq Lib Prep Kit for Illumina(RK20301),94 C for 10 minutes,YES,,11,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_2_20181020,Sample B,500,,ABclonal Stranded mRNA-seq Lib Prep Kit for Illumina(RK20301),94 C for 10 minutes,YES,,11,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_3_20181020,Sample B,500,,ABclonal Stranded mRNA-seq Lib Prep Kit for Illumina(RK20301),94 C for 10 minutes,YES,,11,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_4_20190306,Sample B,,,VAHTS mRNA Capture Beads kit,,,,14,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_5_20190306,Sample B,,,VAHTS mRNA Capture Beads kit,,,,14,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_6_20190306,Sample B,,,VAHTS mRNA Capture Beads kit,,,,14,NA,,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_7_20190506,Sample B,,,TruSeq Stranded Total RNA Gold kit,,,,,2018/9/28,ERCC Mix 2,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_8_20190506,Sample B,,,TruSeq Stranded Total RNA Gold kit,,,,,2018/9/28,ERCC Mix 2,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_BRG_SampleB_9_20190506,Sample B,,,TruSeq Stranded Total RNA Gold kit,,,,,2018/9/28,ERCC Mix 2,,,RiboDepletion,Quartet_RNA,,,BRG
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_1_20190710,Sample A,,Ribo-Zeroâ„?Magnetic Kit(Human/Mouse/Rat),VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/10/20,ERCC Mix 1,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_1_20190816,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_1_20200205,Sample A,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_2_20190710,Sample A,,Ribo-Zeroâ„?Magnetic Kit(Human/Mouse/Rat),VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/10/20,ERCC Mix 1,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_2_20190816,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_2_20200205,Sample A,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_3_20190710,Sample A,,Ribo-Zeroâ„?Magnetic Kit(Human/Mouse/Rat),VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/10/20,ERCC Mix 1,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_3_20190816,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_3_20200205,Sample A,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_4_20200205,Sample A,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleA_5_20200205,Sample A,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_1_20190710,Sample B,,Ribo-Zeroâ„?Magnetic Kit(Human/Mouse/Rat),VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/10/20,ERCC Mix 2,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_1_20190816,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_1_20200205,Sample B,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_2_20190710,Sample B,,Ribo-Zeroâ„?Magnetic Kit(Human/Mouse/Rat),VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/10/20,ERCC Mix 2,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_2_20190816,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_2_20200205,Sample B,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_3_20190710,Sample B,,Ribo-Zeroâ„?Magnetic Kit(Human/Mouse/Rat),VAHTS mRNA-seq v2 Library Prep Kit for Illumina,,,,,2018/10/20,ERCC Mix 2,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_3_20190816,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_3_20200205,Sample B,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_4_20200205,Sample B,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_FDU_SampleB_5_20200205,Sample B,,TruSeq Stranded Total RNA Library Prep Gold,VAHTSTM Total RNA-seq (H/M/R)Library Prep Kit for Illumina,,,,,2019/3/6,,,,RiboDepletion,Quartet_RNA,,,FDU
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_VAZ_SampleA_1_20200612,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_VAZ_SampleA_2_20200612,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_VAZ_SampleA_3_20200612,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_VAZ_SampleB_1_20200612,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_VAZ_SampleB_2_20200612,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_VAZ_SampleB_3_20200612,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,VAZ
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleA_1_20180928,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleA_1_20200901,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleA_2_20180928,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleA_2_20200901,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleA_3_20180928,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleA_3_20200901,Sample A,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleB_1_20180928,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleB_1_20200901,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleB_2_20180928,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleB_2_20200901,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleB_3_20180928,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX
+library_Quartet_RNA_ILM_NovaSeq_RiboZero_WUX_SampleB_3_20200901,Sample B,,,,,,,,NA,,,,RiboDepletion,Quartet_RNA,,,WUX

@@ -1,0 +1,788 @@
+sequencing_id,library_id,site,platform,method,index_sequence,flowcell_id,lane_no,run_date,library_layout,run_year
+sequence_AFX_1_A1,library_AFX_1_A1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_A2,library_AFX_1_A2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_A3,library_AFX_1_A3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_A4,library_AFX_1_A4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_A5,library_AFX_1_A5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_B1,library_AFX_1_B1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_B2,library_AFX_1_B2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_B3,library_AFX_1_B3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_B4,library_AFX_1_B4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_B5,library_AFX_1_B5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_C1,library_AFX_1_C1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_C2,library_AFX_1_C2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_C3,library_AFX_1_C3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_C4,library_AFX_1_C4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_C5,library_AFX_1_C5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_D1,library_AFX_1_D1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_D2,library_AFX_1_D2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_D3,library_AFX_1_D3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_D4,library_AFX_1_D4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_1_D5,library_AFX_1_D5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_A1,library_AFX_2_A1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_A2,library_AFX_2_A2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_A3,library_AFX_2_A3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_A4,library_AFX_2_A4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_A5,library_AFX_2_A5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_B1,library_AFX_2_B1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_B2,library_AFX_2_B2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_B3,library_AFX_2_B3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_B4,library_AFX_2_B4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_B5,library_AFX_2_B5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_C1,library_AFX_2_C1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_C2,library_AFX_2_C2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_C3,library_AFX_2_C3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_C4,library_AFX_2_C4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_C5,library_AFX_2_C5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_D1,library_AFX_2_D1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_D2,library_AFX_2_D2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_D3,library_AFX_2_D3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_D4,library_AFX_2_D4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_2_D5,library_AFX_2_D5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_A1,library_AFX_3_A1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_A2,library_AFX_3_A2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_A3,library_AFX_3_A3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_A4,library_AFX_3_A4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_A5,library_AFX_3_A5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_B1,library_AFX_3_B1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_B2,library_AFX_3_B2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_B3,library_AFX_3_B3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_B4,library_AFX_3_B4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_B5,library_AFX_3_B5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_C1,library_AFX_3_C1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_C2,library_AFX_3_C2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_C3,library_AFX_3_C3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_C4,library_AFX_3_C4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_C5,library_AFX_3_C5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_D1,library_AFX_3_D1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_D2,library_AFX_3_D2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_D3,library_AFX_3_D3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_D4,library_AFX_3_D4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_3_D5,library_AFX_3_D5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_A1,library_AFX_4_A1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_A2,library_AFX_4_A2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_A3,library_AFX_4_A3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_A4,library_AFX_4_A4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_A5,library_AFX_4_A5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_B1,library_AFX_4_B1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_B2,library_AFX_4_B2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_B3,library_AFX_4_B3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_B4,library_AFX_4_B4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_B5,library_AFX_4_B5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_C1,library_AFX_4_C1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_C2,library_AFX_4_C2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_C3,library_AFX_4_C3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_C4,library_AFX_4_C4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_C5,library_AFX_4_C5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_D1,library_AFX_4_D1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_D2,library_AFX_4_D2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_D3,library_AFX_4_D3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_D4,library_AFX_4_D4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_4_D5,library_AFX_4_D5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_A1,library_AFX_5_A1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_A2,library_AFX_5_A2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_A3,library_AFX_5_A3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_A4,library_AFX_5_A4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_A5,library_AFX_5_A5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_B1,library_AFX_5_B1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_B2,library_AFX_5_B2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_B3,library_AFX_5_B3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_B4,library_AFX_5_B4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_B5,library_AFX_5_B5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_C1,library_AFX_5_C1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_C2,library_AFX_5_C2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_C3,library_AFX_5_C3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_C4,library_AFX_5_C4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_C5,library_AFX_5_C5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_D1,library_AFX_5_D1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_D2,library_AFX_5_D2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_D3,library_AFX_5_D3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_D4,library_AFX_5_D4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_5_D5,library_AFX_5_D5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_A1,library_AFX_6_A1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_A2,library_AFX_6_A2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_A3,library_AFX_6_A3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_A4,library_AFX_6_A4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_A5,library_AFX_6_A5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_B1,library_AFX_6_B1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_B2,library_AFX_6_B2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_B3,library_AFX_6_B3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_B4,library_AFX_6_B4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_B5,library_AFX_6_B5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_C1,library_AFX_6_C1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_C2,library_AFX_6_C2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_C3,library_AFX_6_C3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_C4,library_AFX_6_C4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_C5,library_AFX_6_C5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_D1,library_AFX_6_D1,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_D2,library_AFX_6_D2,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_D3,library_AFX_6_D3,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_D4,library_AFX_6_D4,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_AFX_6_D5,library_AFX_6_D5,AFX,Affymetrix Human Genome U133 Plus 2.0 GeneChip,,,,,2006/7/19,,2006
+sequence_BIO_1_A1,library_BIO_1_A1,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_A2,library_BIO_1_A2,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_A3,library_BIO_1_A3,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_A4,library_BIO_1_A4,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_A5,library_BIO_1_A5,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_B1,library_BIO_1_B1,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_B2,library_BIO_1_B2,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_B3,library_BIO_1_B3,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_B4,library_BIO_1_B4,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_B5,library_BIO_1_B5,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sA1,library_BIO_1_sA1,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sA2,library_BIO_1_sA2,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sA3,library_BIO_1_sA3,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sA4,library_BIO_1_sA4,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sA5,library_BIO_1_sA5,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sB1,library_BIO_1_sB1,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sB2,library_BIO_1_sB2,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sB3,library_BIO_1_sB3,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sB4,library_BIO_1_sB4,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO_1_sB5,library_BIO_1_sB5,BIO,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_A1,library_BIO1_1_A1,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_A2,library_BIO1_1_A2,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_A3,library_BIO1_1_A3,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_A4,library_BIO1_1_A4,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_A5,library_BIO1_1_A5,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_B1,library_BIO1_1_B1,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_B2,library_BIO1_1_B2,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_B3,library_BIO1_1_B3,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_B4,library_BIO1_1_B4,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_BIO1_1_B5,library_BIO1_1_B5,BIO1,CapitalBio Operon oligos,,,,,2006/7/19,,2006
+sequence_GEH_1_A1,library_GEH_1_A1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_A2,library_GEH_1_A2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_A3,library_GEH_1_A3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_A4,library_GEH_1_A4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_A5,library_GEH_1_A5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_B1,library_GEH_1_B1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_B2,library_GEH_1_B2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_B3,library_GEH_1_B3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_B4,library_GEH_1_B4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_B5,library_GEH_1_B5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_C1,library_GEH_1_C1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_C2,library_GEH_1_C2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_C3,library_GEH_1_C3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_C4,library_GEH_1_C4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_C5,library_GEH_1_C5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_D1,library_GEH_1_D1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_D2,library_GEH_1_D2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_D3,library_GEH_1_D3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_D4,library_GEH_1_D4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_1_D5,library_GEH_1_D5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_A1,library_GEH_2_A1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_A2,library_GEH_2_A2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_A3,library_GEH_2_A3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_A4,library_GEH_2_A4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_A5,library_GEH_2_A5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_B1,library_GEH_2_B1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_B2,library_GEH_2_B2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_B3,library_GEH_2_B3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_B4,library_GEH_2_B4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_B5,library_GEH_2_B5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_C1,library_GEH_2_C1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_C2,library_GEH_2_C2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_C3,library_GEH_2_C3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_C4,library_GEH_2_C4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_C5,library_GEH_2_C5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_D1,library_GEH_2_D1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_D2,library_GEH_2_D2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_D3,library_GEH_2_D3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_D4,library_GEH_2_D4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_2_D5,library_GEH_2_D5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_A1,library_GEH_3_A1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_A2,library_GEH_3_A2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_A3,library_GEH_3_A3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_A4,library_GEH_3_A4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_A5,library_GEH_3_A5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_B1,library_GEH_3_B1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_B2,library_GEH_3_B2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_B3,library_GEH_3_B3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_B4,library_GEH_3_B4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_B5,library_GEH_3_B5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_C1,library_GEH_3_C1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_C2,library_GEH_3_C2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_C3,library_GEH_3_C3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_C4,library_GEH_3_C4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_C5,library_GEH_3_C5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_D1,library_GEH_3_D1,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_D2,library_GEH_3_D2,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_D3,library_GEH_3_D3,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_D4,library_GEH_3_D4,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_GEH_3_D5,library_GEH_3_D5,GEH,GE Healthcare CodeLink Human Whole Genome,,,,,2006/7/19,,2006
+sequence_EPP_1_A1,library_EPP_1_A1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_A2,library_EPP_1_A2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_A3,library_EPP_1_A3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_A4,library_EPP_1_A4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_A5,library_EPP_1_A5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_B1,library_EPP_1_B1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_B2,library_EPP_1_B2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_B3,library_EPP_1_B3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_B4,library_EPP_1_B4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_B5,library_EPP_1_B5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_C1,library_EPP_1_C1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_C2,library_EPP_1_C2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_C3,library_EPP_1_C3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_C4,library_EPP_1_C4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_C5,library_EPP_1_C5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_D1,library_EPP_1_D1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_D2,library_EPP_1_D2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_D3,library_EPP_1_D3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_D4,library_EPP_1_D4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_1_D5,library_EPP_1_D5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_A1,library_EPP_2_A1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_A2,library_EPP_2_A2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_A3,library_EPP_2_A3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_A4,library_EPP_2_A4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_A5,library_EPP_2_A5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_B1,library_EPP_2_B1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_B2,library_EPP_2_B2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_B3,library_EPP_2_B3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_B4,library_EPP_2_B4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_B5,library_EPP_2_B5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_C1,library_EPP_2_C1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_C2,library_EPP_2_C2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_C3,library_EPP_2_C3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_C4,library_EPP_2_C4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_C5,library_EPP_2_C5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_D1,library_EPP_2_D1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_D2,library_EPP_2_D2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_D3,library_EPP_2_D3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_D4,library_EPP_2_D4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_2_D5,library_EPP_2_D5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_A1,library_EPP_3_A1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_A2,library_EPP_3_A2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_A3,library_EPP_3_A3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_A4,library_EPP_3_A4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_A5,library_EPP_3_A5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_B1,library_EPP_3_B1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_B2,library_EPP_3_B2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_B3,library_EPP_3_B3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_B4,library_EPP_3_B4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_B5,library_EPP_3_B5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_C1,library_EPP_3_C1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_C2,library_EPP_3_C2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_C3,library_EPP_3_C3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_C4,library_EPP_3_C4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_C5,library_EPP_3_C5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_D1,library_EPP_3_D1,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_D2,library_EPP_3_D2,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_D3,library_EPP_3_D3,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_D4,library_EPP_3_D4,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_EPP_3_D5,library_EPP_3_D5,EPP,Eppendorf DualChip Microarray,,,,,2006/7/19,,2006
+sequence_GEX_1_A1,library_GEX_1_A1,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_A2,library_GEX_1_A2,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_A3,library_GEX_1_A3,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_B1,library_GEX_1_B1,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_B2,library_GEX_1_B2,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_B3,library_GEX_1_B3,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_C1,library_GEX_1_C1,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_C2,library_GEX_1_C2,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_C3,library_GEX_1_C3,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_D1,library_GEX_1_D1,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_D2,library_GEX_1_D2,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_GEX_1_D3,library_GEX_1_D3,GEX,Gene Express StaRT-PCR Assays,,,,,2006/7/19,,2006
+sequence_ABI_1_A1,library_ABI_1_A1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_A2,library_ABI_1_A2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_A3,library_ABI_1_A3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_A4,library_ABI_1_A4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_A5,library_ABI_1_A5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_B1,library_ABI_1_B1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_B2,library_ABI_1_B2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_B3,library_ABI_1_B3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_B4,library_ABI_1_B4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_B5,library_ABI_1_B5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_C1,library_ABI_1_C1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_C2,library_ABI_1_C2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_C3,library_ABI_1_C3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_C4,library_ABI_1_C4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_C5,library_ABI_1_C5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_D1,library_ABI_1_D1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_D2,library_ABI_1_D2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_D3,library_ABI_1_D3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_D4,library_ABI_1_D4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_1_D5,library_ABI_1_D5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_A1,library_ABI_2_A1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_A2,library_ABI_2_A2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_A3,library_ABI_2_A3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_A4,library_ABI_2_A4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_A5,library_ABI_2_A5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_B1,library_ABI_2_B1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_B2,library_ABI_2_B2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_B3,library_ABI_2_B3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_B4,library_ABI_2_B4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_B5,library_ABI_2_B5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_C1,library_ABI_2_C1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_C2,library_ABI_2_C2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_C3,library_ABI_2_C3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_C4,library_ABI_2_C4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_C5,library_ABI_2_C5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_D1,library_ABI_2_D1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_D2,library_ABI_2_D2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_D3,library_ABI_2_D3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_D4,library_ABI_2_D4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_2_D5,library_ABI_2_D5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_A1,library_ABI_3_A1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_A2,library_ABI_3_A2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_A3,library_ABI_3_A3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_A4,library_ABI_3_A4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_A5,library_ABI_3_A5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_B1,library_ABI_3_B1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_B2,library_ABI_3_B2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_B3,library_ABI_3_B3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_B4,library_ABI_3_B4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_B5,library_ABI_3_B5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_C1,library_ABI_3_C1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_C2,library_ABI_3_C2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_C3,library_ABI_3_C3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_C4,library_ABI_3_C4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_C5,library_ABI_3_C5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_D1,library_ABI_3_D1,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_D2,library_ABI_3_D2,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_D3,library_ABI_3_D3,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_D4,library_ABI_3_D4,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ABI_3_D5,library_ABI_3_D5,ABI,Applied Biosystems Human Genome Survey Microarray v2.0,,,,,2006/7/19,,2006
+sequence_ILM_1_A1,library_ILM_1_A1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_A2,library_ILM_1_A2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_A3,library_ILM_1_A3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_A4,library_ILM_1_A4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_A5,library_ILM_1_A5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_B1,library_ILM_1_B1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_B2,library_ILM_1_B2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_B3,library_ILM_1_B3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_B4,library_ILM_1_B4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_B5,library_ILM_1_B5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_C1,library_ILM_1_C1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_C2,library_ILM_1_C2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_C4,library_ILM_1_C4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_C5,library_ILM_1_C5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_D1,library_ILM_1_D1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_D2,library_ILM_1_D2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_D3,library_ILM_1_D3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_D4,library_ILM_1_D4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_1_D5,library_ILM_1_D5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_A1,library_ILM_2_A1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_A2,library_ILM_2_A2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_A3,library_ILM_2_A3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_A4,library_ILM_2_A4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_A5,library_ILM_2_A5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_B1,library_ILM_2_B1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_B2,library_ILM_2_B2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_B3,library_ILM_2_B3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_B4,library_ILM_2_B4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_B5,library_ILM_2_B5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_C1,library_ILM_2_C1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_C2,library_ILM_2_C2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_C3,library_ILM_2_C3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_C4,library_ILM_2_C4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_C5,library_ILM_2_C5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_D1,library_ILM_2_D1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_D2,library_ILM_2_D2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_D3,library_ILM_2_D3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_D4,library_ILM_2_D4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_2_D5,library_ILM_2_D5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_A1,library_ILM_3_A1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_A2,library_ILM_3_A2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_A3,library_ILM_3_A3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_A4,library_ILM_3_A4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_A5,library_ILM_3_A5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_B1,library_ILM_3_B1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_B2,library_ILM_3_B2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_B3,library_ILM_3_B3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_B4,library_ILM_3_B4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_B5,library_ILM_3_B5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_C1,library_ILM_3_C1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_C2,library_ILM_3_C2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_C3,library_ILM_3_C3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_C4,library_ILM_3_C4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_C5,library_ILM_3_C5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_D1,library_ILM_3_D1,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_D2,library_ILM_3_D2,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_D3,library_ILM_3_D3,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_D4,library_ILM_3_D4,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_ILM_3_D5,library_ILM_3_D5,ILM,"Illumina Human-6 BeadChip, 48K v1.0",,,,,2006/7/19,,2006
+sequence_NCI_1_A1,library_NCI_1_A1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_A2,library_NCI_1_A2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_A3,library_NCI_1_A3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_A4,library_NCI_1_A4,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_A5,library_NCI_1_A5,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_B1,library_NCI_1_B1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_B2,library_NCI_1_B2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_B3,library_NCI_1_B3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_B4,library_NCI_1_B4,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_B5,library_NCI_1_B5,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_C1,library_NCI_1_C1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_C2,library_NCI_1_C2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_C3,library_NCI_1_C3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_C4,library_NCI_1_C4,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_C5,library_NCI_1_C5,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_D1,library_NCI_1_D1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_D2,library_NCI_1_D2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_D3,library_NCI_1_D3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_D4,library_NCI_1_D4,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_1_D5,library_NCI_1_D5,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_A1,library_NCI_2_A1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_A2,library_NCI_2_A2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_A3,library_NCI_2_A3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_A4,library_NCI_2_A4,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_B1,library_NCI_2_B1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_B2,library_NCI_2_B2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_B3,library_NCI_2_B3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_B4,library_NCI_2_B4,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_C1,library_NCI_2_C1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_C2,library_NCI_2_C2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_C3,library_NCI_2_C3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_D1,library_NCI_2_D1,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_D2,library_NCI_2_D2,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_2_D3,library_NCI_2_D3,NCI,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_A1,library_NCI_3r_A1,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_A2,library_NCI_3r_A2,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_A3,library_NCI_3r_A3,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_A4,library_NCI_3r_A4,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_B1,library_NCI_3r_B1,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_B2,library_NCI_3r_B2,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_B3,library_NCI_3r_B3,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_B4,library_NCI_3r_B4,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_sA1,library_NCI_3r_sA1,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_3r_sA2,library_NCI_3r_sA2,NCI3r,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_A1,library_NCI_4_A1,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_A2,library_NCI_4_A2,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_A3,library_NCI_4_A3,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_A4,library_NCI_4_A4,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_A5,library_NCI_4_A5,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_B1,library_NCI_4_B1,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_B2,library_NCI_4_B2,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_B3,library_NCI_4_B3,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_B4,library_NCI_4_B4,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NCI_4_B5,library_NCI_4_B5,NCI4,NCI Operon Human Oligo Set v3,,,,,2006/7/19,,2006
+sequence_NMC_1_A1,library_NMC_1_A1,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_A2,library_NMC_1_A2,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_A3,library_NMC_1_A3,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_A4,library_NMC_1_A4,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_A5,library_NMC_1_A5,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_B1,library_NMC_1_B1,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_B2,library_NMC_1_B2,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_B3,library_NMC_1_B3,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_B4,library_NMC_1_B4,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_NMC_1_B5,library_NMC_1_B5,NMC,Norwegian Microarray Consortium Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_A1,library_OPN_1_A1,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_A2,library_OPN_1_A2,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_A3,library_OPN_1_A3,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_A4,library_OPN_1_A4,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_A5,library_OPN_1_A5,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_B1,library_OPN_1_B1,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_B2,library_OPN_1_B2,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_B3,library_OPN_1_B3,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_B4,library_OPN_1_B4,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_OPN_1_B5,library_OPN_1_B5,OPN,Operon-Operon,,,,,2006/7/19,,2006
+sequence_QGN_1_A1,library_QGN_1_A1,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_A2,library_QGN_1_A2,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_A3,library_QGN_1_A3,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_B1,library_QGN_1_B1,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_B2,library_QGN_1_B2,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_B3,library_QGN_1_B3,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_C1,library_QGN_1_C1,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_C2,library_QGN_1_C2,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_C3,library_QGN_1_C3,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_D1,library_QGN_1_D1,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_D2,library_QGN_1_D2,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_QGN_1_D3,library_QGN_1_D3,QGN,QuantiGene (Panomics) Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_A1,library_TAQ_1_A1,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_A2,library_TAQ_1_A2,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_A3,library_TAQ_1_A3,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_A4,library_TAQ_1_A4,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_B1,library_TAQ_1_B1,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_B2,library_TAQ_1_B2,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_B3,library_TAQ_1_B3,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_B4,library_TAQ_1_B4,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_C1,library_TAQ_1_C1,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_C2,library_TAQ_1_C2,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_C3,library_TAQ_1_C3,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_C4,library_TAQ_1_C4,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_D1,library_TAQ_1_D1,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_D2,library_TAQ_1_D2,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_D3,library_TAQ_1_D3,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_TAQ_1_D4,library_TAQ_1_D4,TAQ,Applied Biosystems TaqMan Assays,,,,,2006/7/19,,2006
+sequence_H25K_2_A1,library_H25K_2_A1,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A2,library_H25K_2_A2,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A3,library_H25K_2_A3,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A4,library_H25K_2_A4,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A5,library_H25K_2_A5,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A6,library_H25K_2_A6,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A7,library_H25K_2_A7,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A8,library_H25K_2_A8,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A9,library_H25K_2_A9,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_A10,library_H25K_2_A10,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B1,library_H25K_2_B1,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B2,library_H25K_2_B2,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B3,library_H25K_2_B3,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B4,library_H25K_2_B4,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B5,library_H25K_2_B5,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B6,library_H25K_2_B6,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B7,library_H25K_2_B7,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B8,library_H25K_2_B8,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B9,library_H25K_2_B9,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_B10,library_H25K_2_B10,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sA1,library_H25K_2_sA1,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sA2,library_H25K_2_sA2,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sA3,library_H25K_2_sA3,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sA4,library_H25K_2_sA4,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sA5,library_H25K_2_sA5,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sB1,library_H25K_2_sB1,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sB2,library_H25K_2_sB2,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sB3,library_H25K_2_sB3,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sB4,library_H25K_2_sB4,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K_2_sB5,library_H25K_2_sB5,H25K,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_A1,library_H25K1_1_A1,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_A2,library_H25K1_1_A2,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_A3,library_H25K1_1_A3,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_A4,library_H25K1_1_A4,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_A5,library_H25K1_1_A5,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_B1,library_H25K1_1_B1,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_B2,library_H25K1_1_B2,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_B3,library_H25K1_1_B3,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_B4,library_H25K1_1_B4,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_1_B5,library_H25K1_1_B5,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_A1,library_H25K1_2_A1,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_A2,library_H25K1_2_A2,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_A3,library_H25K1_2_A3,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_A4,library_H25K1_2_A4,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_A5,library_H25K1_2_A5,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_B1,library_H25K1_2_B1,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_B2,library_H25K1_2_B2,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_B3,library_H25K1_2_B3,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_B4,library_H25K1_2_B4,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_2_B5,library_H25K1_2_B5,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_A1,library_H25K1_3_A1,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_A2,library_H25K1_3_A2,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_A3,library_H25K1_3_A3,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_A4,library_H25K1_3_A4,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_A5,library_H25K1_3_A5,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_B1,library_H25K1_3_B1,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_B2,library_H25K1_3_B2,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_B3,library_H25K1_3_B3,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_B4,library_H25K1_3_B4,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_H25K1_3_B5,library_H25K1_3_B5,H25K1,TeleChem ArrayIt Human Microarrays,,,,,2006/7/19,,2006
+sequence_AG1_1_A1,library_AG1_1_A1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_A2,library_AG1_1_A2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_A3,library_AG1_1_A3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_A4,library_AG1_1_A4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_A5,library_AG1_1_A5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_B1,library_AG1_1_B1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_B2,library_AG1_1_B2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_B3,library_AG1_1_B3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_B4,library_AG1_1_B4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_B5,library_AG1_1_B5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_C1,library_AG1_1_C1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_C2,library_AG1_1_C2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_C3,library_AG1_1_C3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_C4,library_AG1_1_C4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_C5,library_AG1_1_C5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_D1,library_AG1_1_D1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_D2,library_AG1_1_D2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_D3,library_AG1_1_D3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_D4,library_AG1_1_D4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_1_D5,library_AG1_1_D5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_A1,library_AG1_2_A1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_A2,library_AG1_2_A2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_A3,library_AG1_2_A3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_A4,library_AG1_2_A4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_A5,library_AG1_2_A5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_B1,library_AG1_2_B1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_B2,library_AG1_2_B2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_B3,library_AG1_2_B3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_B4,library_AG1_2_B4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_B5,library_AG1_2_B5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_C1,library_AG1_2_C1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_C2,library_AG1_2_C2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_C3,library_AG1_2_C3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_C4,library_AG1_2_C4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_C5,library_AG1_2_C5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_D1,library_AG1_2_D1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_D2,library_AG1_2_D2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_D3,library_AG1_2_D3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_D4,library_AG1_2_D4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_2_D5,library_AG1_2_D5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_A1,library_AG1_3_A1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_A2,library_AG1_3_A2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_A3,library_AG1_3_A3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_A4,library_AG1_3_A4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_A5,library_AG1_3_A5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_B1,library_AG1_3_B1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_B2,library_AG1_3_B2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_B3,library_AG1_3_B3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_B4,library_AG1_3_B4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_B5,library_AG1_3_B5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_C1,library_AG1_3_C1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_C2,library_AG1_3_C2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_C3,library_AG1_3_C3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_C4,library_AG1_3_C4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_C5,library_AG1_3_C5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_D1,library_AG1_3_D1,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_D2,library_AG1_3_D2,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_D3,library_AG1_3_D3,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_D4,library_AG1_3_D4,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AG1_3_D5,library_AG1_3_D5,AG1,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_A1,library_AGL_1_A1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_A2,library_AGL_1_A2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_A3,library_AGL_1_A3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_A4,library_AGL_1_A4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_A5,library_AGL_1_A5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_B1,library_AGL_1_B1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_B2,library_AGL_1_B2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_B3,library_AGL_1_B3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_B4,library_AGL_1_B4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_B5,library_AGL_1_B5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_C1,library_AGL_1_C1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_C2,library_AGL_1_C2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_C3,library_AGL_1_C3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_C4,library_AGL_1_C4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_C5,library_AGL_1_C5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_D1,library_AGL_1_D1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_D2,library_AGL_1_D2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_D3,library_AGL_1_D3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_D4,library_AGL_1_D4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_1_D5,library_AGL_1_D5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_A1,library_AGL_2_A1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_A2,library_AGL_2_A2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_A3,library_AGL_2_A3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_A4,library_AGL_2_A4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_A5,library_AGL_2_A5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_B1,library_AGL_2_B1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_B2,library_AGL_2_B2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_B3,library_AGL_2_B3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_B4,library_AGL_2_B4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_B5,library_AGL_2_B5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_C1,library_AGL_2_C1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_C2,library_AGL_2_C2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_C3,library_AGL_2_C3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_C4,library_AGL_2_C4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_C5,library_AGL_2_C5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_D1,library_AGL_2_D1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_D2,library_AGL_2_D2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_D3,library_AGL_2_D3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_D4,library_AGL_2_D4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_2_D5,library_AGL_2_D5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_A1,library_AGL_3_A1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_A2,library_AGL_3_A2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_A3,library_AGL_3_A3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_A4,library_AGL_3_A4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_A5,library_AGL_3_A5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_B1,library_AGL_3_B1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_B2,library_AGL_3_B2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_B3,library_AGL_3_B3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_B4,library_AGL_3_B4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_B5,library_AGL_3_B5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_C1,library_AGL_3_C1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_C2,library_AGL_3_C2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_C3,library_AGL_3_C3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_C4,library_AGL_3_C4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_C5,library_AGL_3_C5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_D1,library_AGL_3_D1,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_D2,library_AGL_3_D2,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_D3,library_AGL_3_D3,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_D4,library_AGL_3_D4,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_AGL_3_D5,library_AGL_3_D5,AGL,"Agilent Whole Human Genome Oligo Microarray, G4112A",,,,,2006/7/19,,2006
+sequence_GSM589506,library_GSM589506,,Affymetrix Human Genome U133A Array,,,,,2010/8/31,,2010
+sequence_GSM589507,library_GSM589507,,Affymetrix Human Genome U133A Array,,,,,2010/8/31,,2010
+sequence_GSM589508,library_GSM589508,,Affymetrix Human Genome U133A Array,,,,,2010/8/31,,2010
+sequence_GSM589509,library_GSM589509,,Affymetrix Human Genome U133A Array,,,,,2010/8/31,,2010
+sequence_GSM589510,library_GSM589510,,Affymetrix Human Genome U133A Array,,,,,2010/8/31,,2010
+sequence_GSM589511,library_GSM589511,,Affymetrix Human Genome U133A Array,,,,,2010/8/31,,2010
+sequence_GSM589512,library_GSM589512,,Affymetrix Human Genome U133 Plus 2.0 Array,,,,,2010/8/31,,2010
+sequence_GSM589513,library_GSM589513,,Affymetrix Human Genome U133 Plus 2.0 Array,,,,,2010/8/31,,2010
+sequence_GSM589514,library_GSM589514,,Affymetrix Human Genome U133 Plus 2.0 Array,,,,,2010/8/31,,2010
+sequence_GSM589515,library_GSM589515,,Affymetrix Human Genome U133 Plus 2.0 Array,,,,,2010/8/31,,2010
+sequence_GSM589516,library_GSM589516,,Affymetrix Human Genome U133 Plus 2.0 Array,,,,,2010/8/31,,2010
+sequence_GSM589517,library_GSM589517,,Affymetrix Human Genome U133 Plus 2.0 Array,,,,,2010/8/31,,2010
+sequence_GSE65615_UHRR_CTRL_1,library_GSE65615_UHRR_CTRL_1,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_2,library_GSE65615_UHRR_CTRL_2,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_3,library_GSE65615_UHRR_CTRL_3,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_4,library_GSE65615_UHRR_CTRL_4,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_5,library_GSE65615_UHRR_CTRL_5,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_6,library_GSE65615_UHRR_CTRL_6,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_7,library_GSE65615_UHRR_CTRL_7,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_8,library_GSE65615_UHRR_CTRL_8,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_9,library_GSE65615_UHRR_CTRL_9,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_10,library_GSE65615_UHRR_CTRL_10,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_11,library_GSE65615_UHRR_CTRL_11,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_12,library_GSE65615_UHRR_CTRL_12,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_13,library_GSE65615_UHRR_CTRL_13,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_14,library_GSE65615_UHRR_CTRL_14,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_15,library_GSE65615_UHRR_CTRL_15,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSE65615_UHRR_CTRL_16,library_GSE65615_UHRR_CTRL_16,,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2015/2/4,,2015
+sequence_GSM1165036,library_GSM1165036,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165037,library_GSM1165037,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165038,library_GSM1165038,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165039,library_GSM1165039,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165040,library_GSM1165040,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165041,library_GSM1165041,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165042,library_GSM1165042,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165043,library_GSM1165043,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165044,library_GSM1165044,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165045,library_GSM1165045,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165046,library_GSM1165046,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165047,library_GSM1165047,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165048,library_GSM1165048,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165049,library_GSM1165049,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165050,library_GSM1165050,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_GSM1165051,library_GSM1165051,,Agilent-039825 SEQCboku1Mv1,,,,,2013/6/17,,2013
+sequence_AFX_USF_A_1_HUG,library_AFX_USF_A_1_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_2_HUG,library_AFX_USF_A_2_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_3_HUG,library_AFX_USF_A_3_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_4_HUG,library_AFX_USF_A_4_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_1_HUG,library_AFX_USF_B_1_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_2_HUG,library_AFX_USF_B_2_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_3_HUG,library_AFX_USF_B_3_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_4_HUG,library_AFX_USF_B_4_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_1_HUG,library_AFX_USF_C_1_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_2_HUG,library_AFX_USF_C_2_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_3_HUG,library_AFX_USF_C_3_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_4_HUG,library_AFX_USF_C_4_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_1_HUG,library_AFX_USF_D_1_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_2_HUG,library_AFX_USF_D_2_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_3_HUG,library_AFX_USF_D_3_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_4_HUG,library_AFX_USF_D_4_HUG,USF,Affymetrix Human Gene 2.0 ST Array ,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_1_PRV,library_AFX_USF_A_1_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_2_PRV,library_AFX_USF_A_2_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_3_PRV,library_AFX_USF_A_3_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_A_4_PRV,library_AFX_USF_A_4_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_1_PRV,library_AFX_USF_B_1_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_2_PRV,library_AFX_USF_B_2_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_3_PRV,library_AFX_USF_B_3_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_B_4_PRV,library_AFX_USF_B_4_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_1_PRV,library_AFX_USF_C_1_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_2_PRV,library_AFX_USF_C_2_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_3_PRV,library_AFX_USF_C_3_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_C_4_PRV,library_AFX_USF_C_4_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_1_PRV,library_AFX_USF_D_1_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_2_PRV,library_AFX_USF_D_2_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_3_PRV,library_AFX_USF_D_3_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_AFX_USF_D_4_PRV,library_AFX_USF_D_4_PRV,USF,GeneChip PrimeView Human Gene Expression Array,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_A_1_MA,library_SEQC_ILM_COH_A_1_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_A_2_MA,library_SEQC_ILM_COH_A_2_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_A_3_MA,library_SEQC_ILM_COH_A_3_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_B_1_MA,library_SEQC_ILM_COH_B_1_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_B_2_MA,library_SEQC_ILM_COH_B_2_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_B_3_MA,library_SEQC_ILM_COH_B_3_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_C_1_MA,library_SEQC_ILM_COH_C_1_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_C_2_MA,library_SEQC_ILM_COH_C_2_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_C_3_MA,library_SEQC_ILM_COH_C_3_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_D_1_MA,library_SEQC_ILM_COH_D_1_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_D_2_MA,library_SEQC_ILM_COH_D_2_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_COH_D_3_MA,library_SEQC_ILM_COH_D_3_MA,COH,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_A_1_MA,library_SEQC_ILM_UTS_A_1_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_A_2_MA,library_SEQC_ILM_UTS_A_2_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_A_3_MA,library_SEQC_ILM_UTS_A_3_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_B_1_MA,library_SEQC_ILM_UTS_B_1_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_B_2_MA,library_SEQC_ILM_UTS_B_2_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_B_3_MA,library_SEQC_ILM_UTS_B_3_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_C_1_MA,library_SEQC_ILM_UTS_C_1_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_C_2_MA,library_SEQC_ILM_UTS_C_2_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_C_3_MA,library_SEQC_ILM_UTS_C_3_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_D_1_MA,library_SEQC_ILM_UTS_D_1_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_D_2_MA,library_SEQC_ILM_UTS_D_2_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_SEQC_ILM_UTS_D_3_MA,library_SEQC_ILM_UTS_D_3_MA,UTS,Illumina HumanHT-12 V4.0 expression beadchip,,,,,2014/4/2,,2014
+sequence_GSE56457_SEQC_RTPCR_A,library_GSE56457_SEQC_RTPCR_A,NA,MIQE validated qPCR assays,,,,,2014/4/2,,2014
+sequence_GSE56457_SEQC_RTPCR_B,library_GSE56457_SEQC_RTPCR_B,NA,MIQE validated qPCR assays,,,,,2014/4/2,,2014
+sequence_GSE56457_SEQC_RTPCR_C,library_GSE56457_SEQC_RTPCR_C,NA,MIQE validated qPCR assays,,,,,2014/4/2,,2014
+sequence_GSE56457_SEQC_RTPCR_D,library_GSE56457_SEQC_RTPCR_D,NA,MIQE validated qPCR assays,,,,,2014/4/2,,2014

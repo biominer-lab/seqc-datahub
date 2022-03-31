@@ -1,0 +1,66 @@
+sequencing_id,library_id,site,platform,method,index_sequence,flowcell_id,lane_no,run_date,library_layout,run_year
+sequence_HiseVsXten_Hiseq_A_1,library_HiseVsXten_Hiseq_A_1,,Illumina HiSeq 2500,,,,,,PAIRED,2015
+sequence_HiseVsXten_Hiseq_A_2,library_HiseVsXten_Hiseq_A_2,,Illumina HiSeq 2500,,,,,,PAIRED,2015
+sequence_HiseVsXten_Hiseq_A_3,library_HiseVsXten_Hiseq_A_3,,Illumina HiSeq 2500,,,,,,PAIRED,2015
+sequence_HiseVsXten_XTen_A_1,library_HiseVsXten_XTen_A_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_HiseVsXten_XTen_A_2,library_HiseVsXten_XTen_A_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_HiseVsXten_XTen_A_3,library_HiseVsXten_XTen_A_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_HiseVsXten_Hiseq_B_1,library_HiseVsXten_Hiseq_B_1,,Illumina HiSeq 2500,,,,,,PAIRED,2015
+sequence_HiseVsXten_Hiseq_B_2,library_HiseVsXten_Hiseq_B_2,,Illumina HiSeq 2500,,,,,,PAIRED,2015
+sequence_HiseVsXten_Hiseq_B_3,library_HiseVsXten_Hiseq_B_3,,Illumina HiSeq 2500,,,,,,PAIRED,2015
+sequence_HiseVsXten_XTen_B_1,library_HiseVsXten_XTen_B_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_HiseVsXten_XTen_B_2,library_HiseVsXten_XTen_B_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_HiseVsXten_XTen_B_3,library_HiseVsXten_XTen_B_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_EsophagusCancer_A_1,library_EsophagusCancer_A_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_EsophagusCancer_B_1,library_EsophagusCancer_B_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_LungCancer_A_1,library_LungCancer_A_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_A_2,library_LungCancer_A_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_A_3,library_LungCancer_A_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_A_4,library_LungCancer_A_4,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_B_1,library_LungCancer_B_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_B_2,library_LungCancer_B_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_B_3,library_LungCancer_B_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_B_4,library_LungCancer_B_4,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_B_5,library_LungCancer_B_5,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_LungCancer_B_6,library_LungCancer_B_6,,Illumina Hiseq X Ten,,,,,,PAIRED,2017
+sequence_NovaSeq_BRI_A_1,library_NovaSeq_BRI_A_1,BRI,Illumina NovaSeq 6000,,,,,,PAIRED,2019
+sequence_NovaSeq_BRI_A_2,library_NovaSeq_BRI_A_2,BRI,Illumina NovaSeq 6000,,,,,,PAIRED,2019
+sequence_NovaSeq_BRI_A_3,library_NovaSeq_BRI_A_3,BRI,Illumina NovaSeq 6000,,,,,,PAIRED,2019
+sequence_NovaSeq_BRI_B_1,library_NovaSeq_BRI_B_1,BRI,Illumina NovaSeq 6000,,,,,,PAIRED,2019
+sequence_NovaSeq_BRI_B_2,library_NovaSeq_BRI_B_2,BRI,Illumina NovaSeq 6000,,,,,,PAIRED,2019
+sequence_NovaSeq_BRI_B_3,library_NovaSeq_BRI_B_3,BRI,Illumina NovaSeq 6000,,,,,,PAIRED,2019
+sequence_Test_CLH_A_1,library_Test_CLH_A_1,CLH,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_CLH_A_2,library_Test_CLH_A_2,CLH,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_CLH_A_3,library_Test_CLH_A_3,CLH,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_CLH_B_1,library_Test_CLH_B_1,CLH,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_CLH_B_2,library_Test_CLH_B_2,CLH,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_CLH_B_3,library_Test_CLH_B_3,CLH,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_ARD_A_1,library_Test_ARD_A_1,ARD,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_ARD_A_2,library_Test_ARD_A_2,ARD,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_ARD_A_3,library_Test_ARD_A_3,ARD,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_NOV_A_1,library_Test_NOV_A_1,NOV,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_ARD_B_1,library_Test_ARD_B_1,ARD,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_ARD_B_2,library_Test_ARD_B_2,ARD,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_ARD_B_3,library_Test_ARD_B_3,ARD,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_NOV_B_1,library_Test_NOV_B_1,NOV,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_Test_NOV_B_2,library_Test_NOV_B_2,NOV,Illumina Hiseq X Ten,,,,,,PAIRED,2018
+sequence_TNBC_A_1,library_TNBC_A_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_B_4,library_TNBC_B_4,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_B_5,library_TNBC_B_5,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_B_6,library_TNBC_B_6,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_A_2,library_TNBC_A_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_A_3,library_TNBC_A_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_A_4,library_TNBC_A_4,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_A_5,library_TNBC_A_5,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_A_6,library_TNBC_A_6,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_B_1,library_TNBC_B_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_B_2,library_TNBC_B_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_B_3,library_TNBC_B_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2016
+sequence_TNBC_Batch2_A_1,library_TNBC_Batch2_A_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_B_1,library_TNBC_Batch2_B_1,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_A_2,library_TNBC_Batch2_A_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_B_2,library_TNBC_Batch2_B_2,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_A_3,library_TNBC_Batch2_A_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_B_3,library_TNBC_Batch2_B_3,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_A_4,library_TNBC_Batch2_A_4,,Illumina Hiseq X Ten,,,,,,PAIRED,2015
+sequence_TNBC_Batch2_B_4,library_TNBC_Batch2_B_4,,Illumina Hiseq X Ten,,,,,,PAIRED,2015

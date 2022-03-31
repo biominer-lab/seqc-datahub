@@ -1,0 +1,5 @@
+biospecimen_id,rm_id,extraction_site,lot_no,cell_line_passage_number,rm_type,source,cell_collection_date,extraction_date,kit_cat_no,kit_source,extraction_protocol
+UHRR,Sample A,Stratagene,740000,NA,RNA,cell line,NA,NA,NA,NA,NA
+HBRR,Sample B,Ambion,105P055201A,NA,RNA,tissue,NA,NA,NA,6050(1mg/ml),NA
+0.75UHRR_and_0.25HBRR,Sample C,NA,NA,NA,RNA,NA,NA,NA,NA,NA,NA
+0.25UHRR_and_0.75HBRR,Sample D,NA,NA,NA,RNA,NA,NA,NA,NA,NA,NA
