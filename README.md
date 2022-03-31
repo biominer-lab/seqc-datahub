@@ -25,8 +25,8 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
 |- LICENSE                           -> 版权声明文件
 ```
 
-## 数据集
-1. [MAQC RNA](./data/MAQC_RNA/README.md)
+## Datasets
+1. [MAQC RNA](./data/MAQC_RNA/)
 
 ## 数据集与Metadata管理方案
 
@@ -59,14 +59,14 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
     |- [总表] full_metadata.csv
    ```
 
-## 数据管理规范细则
+## The Specification for Data Management
 
-1. [命名规范](./docs/names.md)
-2. [Metadata标准与规范](./docs/metadata.md)
+1. [Naming Conventions](./docs/names.md)
+2. [Metadata Specifications](./docs/metadata.md)
 3. [Level1/3数据文件存放规范](./docs/datafile.md)
 4. [Apps - 标准化分析流程](./docs/apps.md)
 
-## Metadata校验工具
+## Metadata Validation
 
 1. [JSON Schemas for Metadata](./specs/metadata.json)
 2. [Metadata Validator](https://github.com/biominer-lab/metadata-validator.git)

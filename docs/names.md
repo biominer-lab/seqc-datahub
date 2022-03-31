@@ -1,17 +1,17 @@
-# 命名规范
-## 目标
+# Naming Conventions
+## Goals
 
 学习TCGA项目的命名规范，统一SampleAB、Quartet项目质控相关数据集文库、文件等的名称（仅适用于测序数据）
 
-## 具体要求
+## Basic Requirements
 
 - 命名中应该包含影响测序质量的关键信息
 - 最多不超过32位字符
 - 所有编码的信息应该是常规可获取的
 
-## 编码方案
+## Encoding Schemes
 
-|编码|描述|
+|Encoding|Description|
 |-|-|
 |TCOA|项目名缩写，必须为四个字符|
 |A|使用了什么类型标准物质的（采用两位数字编码；0表示未知；如A-DNA、B-RNA、xx-阳性编辑位点样本？）|
@@ -25,7 +25,7 @@
 |01|什么型号测序仪器（00表示未知，如01-Illumina HiSeq 3000...）|
 
 
-### 项目名
+### Project Name
 
 ### 标准物质类型
 
@@ -45,7 +45,7 @@
 
 ### 测序仪器
 
-## 示例
+## Example
 
 ![编码示例](./images/TCOA%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.png)
 
