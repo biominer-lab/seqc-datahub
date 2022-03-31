@@ -1,6 +1,47 @@
 # Metadata
 
-## Relationship
+## How to organize the dataset and the related metadata?
+
+1. 数据集由符合指定规范的Metadata表格文件组成，其中Level1-3数据文件存放在`数据仓库(GSA/NODE/SRA/ENA的统称)`并以链接形式记录在Metadata表格中；
+2. 实体、属性与关系的设计需要在数据采集清理难度与尽可能还原真实之间进行权衡；
+3. 数据上传时多采用TSV/CSV/JSON/XML格式文件，尤其是前两者最常用，对用户最友好；
+4. 实体间关系多数属于一对一或一对多，因此，可以考虑采用以下方式管理元数据文件，而对于存在多对多关系的实体则特殊处理；
+
+   ```
+   # 目录结构，每个实体一个目录，每个目录下放置N个Batch文件，每个Batch包含100条左右记录
+   |- project
+   |    |- project-2021-03-18.csv
+   |- donor (Each file contains a project_id to be associate to the project file. 100 records/Batch)
+   |    |- donor-2021-03-18.csv (Batch 1)
+   |    |- donor-2021-03-19.csv (Batch 2)
+   ```
+
+   :exclamation: 哪些实体间可能存在多对多关系？(待讨论) :exclamation:
+
+   :exclamation: 如何通过TSV/CSV文件来记录多对多关系？(待讨论) :exclamation:
+
+5. Metabase管理Metadata时，采用`实体表`与`合并表`共存的策略来平衡易用性与录入便利性
+   
+   策略：在每一个实体对应一个表的方案不变的基础上，依据常见需求由数据导入程序自动生成合并表，如由所有实体子表合并而成的总表(表名为`full_metadata`)
+
+   ```
+   # 导入程序处理后
+    |- [实体子表] project.csv
+    |- [实体子表] donor.csv
+    |- [总表] full_metadata.csv
+   ```
+
+## The Entities
+
+### Project
+### Donor
+### Biospecimen
+### Reference Materials
+### Library
+### Sequencing
+### DataFile
+
+## Relationship Between the Entities
 
 ```mermaid
 flowchart LR
@@ -13,7 +54,7 @@ flowchart LR
       sequencing --> datafile[Data File]
 ```
 
-## Full Table
+## Legacy Specification
 | key                      | name                     | short               | description                                                                                                             | type      | collection | from                |
 | ------------------------ | ------------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | ------------------- |
 | project_id               | Project Id               | Project Id          | Identity of the project.                                                                                                | category  | quartet    | project             |
