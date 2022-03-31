@@ -1,5 +1,19 @@
 # Metadata
 
+## Relationship
+
+```mermaid
+flowchart LR
+      project([Project]) -.-> donor[Donor]
+      project --> reference_materials[Reference Materials]
+      donor -.-> biospecimen
+      biospecimen -.-> reference_materials
+      reference_materials --> library[Library]
+      library --> sequencing[Sequencing]
+      sequencing --> datafile[Data File]
+```
+
+## Full Table
 | key                      | name                     | short               | description                                                                                                             | type      | collection | from                |
 | ------------------------ | ------------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | ------------------- |
 | project_id               | Project Id               | Project Id          | Identity of the project.                                                                                                | category  | quartet    | project             |
