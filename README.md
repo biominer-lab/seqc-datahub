@@ -61,10 +61,15 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
 
 ## 数据管理规范细则
 
-1. [Metadata标准与规范](./docs/metadata.md)
-2. [Level1/3数据文件存放规范](./docs/datafile.md)
-3. [Apps - 标准化分析流程](./docs/apps.md)
-4. [命名规范](./docs/names.md)
+1. [命名规范](./docs/names.md)
+2. [Metadata标准与规范](./docs/metadata.md)
+3. [Level1/3数据文件存放规范](./docs/datafile.md)
+4. [Apps - 标准化分析流程](./docs/apps.md)
+
+## Metadata校验工具
+
+1. [JSON Schemas for Metadata](./specs/metadata.json)
+2. [Metadata Validator](https://github.com/biominer-lab/metadata-validator.git)
 
 
 ## Contribution Guidelines
