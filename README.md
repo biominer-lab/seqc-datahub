@@ -35,8 +35,6 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
 
    ```
    # 目录结构，每个实体一个目录，每个目录下放置N个Batch文件，每个Batch包含100条左右记录
-   |- program
-   |    |- program-2021-03-18.csv
    |- project
    |    |- project-2021-03-18.csv
    |- donor (Each file contains a project_id to be associate to the project file. 100 records/Batch)
