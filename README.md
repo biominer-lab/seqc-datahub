@@ -40,5 +40,4 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
 1. [JSON Schemas for Metadata](./specs/metadata.json)
 2. [Metadata Validator](https://github.com/biominer-lab/metadata-validator.git)
 
-
 ## Contribution Guidelines
