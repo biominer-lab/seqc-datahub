@@ -8,9 +8,10 @@
 
 <p align="center"></p>
 
-| DataSet                       | Status                                                                                                                                | Description                                                |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [MAQC RNA](./data/MAQC_RNA/") | <img src="https://img.shields.io/github/workflow/status/biominer-lab/seqc-datahub/maqc_rna?label=Quality Control" alt="Build Status"> | Transcriptomic Dataset Based on MAQC Reference RNA Samples |
+| DataSet                       | Status                                                                                                                                                                                   | Description                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [MAQC RNA](./data/MAQC_RNA/") | [![Quality Control](https://github.com/biominer-lab/seqc-datahub/actions/workflows/maqc_rna.yml/badge.svg)](https://github.com/biominer-lab/seqc-datahub/actions/workflows/maqc_rna.yml) | Transcriptomic Dataset Based on MAQC Reference RNA Samples |
+
 
 ## Project Structure
 SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相关数据集及制定的数据管理规范文档等。其中一个数据集可以由一到多个项目的Metadata表格文件组成，但推荐一个数据集对应一个项目，并以项目名命名。但在下游整合分析场景时，有需求构建Level3数据合集，可考虑创建包含多个项目的数据集，以具体分析目的命名；
