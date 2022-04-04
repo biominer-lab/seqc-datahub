@@ -1,7 +1,18 @@
-# DataHub for SEQC Project
+<h2 align="center">DataHub for SEQC Project</h2>
+<p align="center">The SEQC DataHub repository is used to manage the metadata and specifications for the SEQC project.</p>
 
-[![Latest Release](https://img.shields.io/github/release/biominer-lab/seqc-datahub.svg?label=Latest%20Release)](https://github.com/biominer-lab/seqc-datahub/releases)
+<p align="center">
+<img src="https://img.shields.io/github/license/biominer-lab/seqc-datahub.svg" alt="License"> 
+<a href="https://github.com/biominer-lab/seqc-datahub/releases"><img alt="Latest Release" src="https://img.shields.io/github/release/biominer-lab/seqc-datahub.svg?label=Latest%20Release"/></a>
+</p>
 
+<p align="center"></p>
+
+| DataSet                       | Status                                                                                                                         | Description                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| [MAQC RNA](./data/MAQC_RNA/") | <img src="https://github.com/biominer-lab/seqc-datahub/workflows/.github/workflows/maqc_rna.yml/badge.svg" alt="Build Status"> | Transcriptomic Dataset Based on MAQC Reference RNA Samples |
+
+## Project Structure
 SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相关数据集及制定的数据管理规范文档等。其中一个数据集可以由一到多个项目的Metadata表格文件组成，但推荐一个数据集对应一个项目，并以项目名命名。但在下游整合分析场景时，有需求构建Level3数据合集，可考虑创建包含多个项目的数据集，以具体分析目的命名；
 
 仓库结构如下：
@@ -25,9 +36,6 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
 |- LICENSE                           -> 版权声明文件
 ```
 
-## Datasets
-1. [MAQC RNA](./data/MAQC_RNA/)
-
 ## The Specification for Data Management
 
 1. [Naming Conventions](./docs/names.md)
@@ -39,5 +47,9 @@ SEQC Datahub仓库用于管理本组织收集整理的多组学质量控制相�
 
 1. [JSON Schemas for Metadata](./specs/metadata.json)
 2. [Metadata Validator](https://github.com/biominer-lab/metadata-validator.git)
+
+## Contributors
+
+- [Jingcheng Yang](https://github.com/yjcyxky)
 
 ## Contribution Guidelines
