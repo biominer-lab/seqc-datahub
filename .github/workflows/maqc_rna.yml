@@ -1,3 +1,5 @@
+name: maqc_rna
+
 on:
   push:
     paths:
